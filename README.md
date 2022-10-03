@@ -2,7 +2,7 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sambit kumar
 ====================================================================================================================================
-<img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/l3978y5HqiEtqupiM/giphy.gif">
+<img align="right" alt="Coding" width="370" src="https://media0.giphy.com/media/l3978y5HqiEtqupiM/giphy.gif">
 Future Software Engineering🎶👨‍💻
 ----------------------------------
 
