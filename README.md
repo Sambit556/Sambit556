@@ -8,7 +8,7 @@ Future Software Engineering🎶👨‍💻
 
 * 🌍  I'm based in Bhubaneswar
 * ✉️  You can contact me at [sambitkumarbhuyan566@gmail.com](mailto:sambitkumarbhuyan566@gmail.com)
-* 🧠  I'm learning Blockchain 🔗
+* 🧠  I'm learning back-end development 🔗
 * 🤝  I'm open to collaborating on Data Science,Back-end
 * ⚡  Don't code , for only money but also with interest💕
 
