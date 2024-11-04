@@ -1,16 +1,16 @@
 <IMG SRC="https://media3.giphy.com/headers/monstercat/LQnX59nHBsOV.gif">
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sambit kumar
+Hii ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sambit kumar
 ====================================================================================================================================
 <img align="right" alt="Coding" width="370" src="https://media0.giphy.com/media/l3978y5HqiEtqupiM/giphy.gif">
-Future Software Engineering🎶👨‍💻
+Present Software Engineering🎶👨‍💻
 ----------------------------------
 
-* 🌍  I'm based in Bhubaneswar
+* 🌍  I'm based in Bengaluru 🌆.
 * ✉️  You can contact me at [sambitkumarbhuyan566@gmail.com](mailto:sambitkumarbhuyan566@gmail.com)
 * 🧠  I'm learning back-end development 🔗
-* 🤝  I'm open to collaborating on Data Science,Back-end
-* ⚡  Don't code , for only money but also with interest💕
+* 🤝  I'm open to collaborating on Cyber-Security,Back-end projects.
+* ⚡  Don't code , for only money but also with interest💕.
 
 <a href="https://www.twitter.com/Sambit_Ku566" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Sambit_Ku566?logo=twitter&style=for-the-badge&color=ef4444&labelColor=000000"
